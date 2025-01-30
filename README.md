@@ -4,4 +4,6 @@ Repositorio de curso git y github!
 
  primer cambio para pull!
 
- segundo cambio para push
+ segundo cambio para push 
+
+ cambio para git fetch
